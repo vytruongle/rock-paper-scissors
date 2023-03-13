@@ -1,0 +1,22 @@
+.bgGame {
+  background-color: black;
+}
+
+.stateImg {
+  width: 20%;
+}
+
+.playerImg {
+  width: 50%;
+  margin-top: 5%;
+}
+
+.buttonWid {
+  width: 100px;
+}
+
+.textColor {
+  color: #fff;
+  font-weight: 500;
+  font-size: 32px;
+}
